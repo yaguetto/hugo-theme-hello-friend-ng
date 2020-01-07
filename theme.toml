@@ -1,5 +1,5 @@
 baseURL = "/"
-title   = "Yago Rogatto"
+title   = "hello friend ng"
 
 DefaultContentLanguage = "en"
 
@@ -51,7 +51,8 @@ disableHugoGeneratorInject = false
   description = "Nice theme for homepages and blogs"
   keywords = ""
   images = [""]
-  img = "/images/yo.png"
+  # if you want picture on home page, put it here
+  # img = "/images/yo.png"
 
   homeSubtitle = "Developer / DevOps"
 
